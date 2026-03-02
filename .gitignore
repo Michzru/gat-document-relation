@@ -1,0 +1,14 @@
+data/
+
+graph_visual_debug_train/
+graph_visual_debug
+runs/
+test_folder/
+test_folder_linked_debug/
+
+#Etest.ipynb
+# annotating_relationships.ipynb
+# fsd.py
+
+.ipynb_checkpoints
+.idea
