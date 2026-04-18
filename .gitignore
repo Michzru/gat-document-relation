@@ -13,8 +13,6 @@ test_folder_linked_debug/
 .ipynb_checkpoints
 .idea
 
-models/gat_graph_text
-
 
 models/
 yolo_worker.py
