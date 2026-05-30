@@ -12,7 +12,7 @@ test_folder_linked_debug/
 
 .ipynb_checkpoints
 .idea
-.venv
+.venv*
 
 models/
 yolo_worker.py
